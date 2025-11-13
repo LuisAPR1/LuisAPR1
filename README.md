@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luis Rodrigues
+# 👋 Hi, I'm Luis Rodrigues
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated developer at work" />
@@ -22,22 +22,21 @@
   </a>
 </p>
 
----
 
-## 🧭 Sobre mim
+## 🧭 About Me
 
 - MSc in Computer Engineering @ Instituto Superior Técnico (2023-2025) built on a BSc from Universidade do Algarve (grade: 15/20)
 - From hands-on technician to research-driven engineer: pragmatic about tools, obsessed with systems that impact real people
 - Balanced experience across backend/frontend, data, distributed systems, AI experiments and user-oriented product design
-- Opero bem em equipas multidisciplinares, gosto de mentorar e tenho alta tolerância para problemas cabeludos
-- Atualmente à procura de um estágio ou posição entry-level onde possa aplicar estes fundamentos e aprender ainda mais
+- Comfortable in multidisciplinary teams, happy to mentor, and have a high tolerance for hairy problems
+- Currently looking for an internship or entry-level role where I can apply these fundamentals and keep learning
 
-## 🚀 Agora mesmo
+## 🚀 Right Now
 
-- Finalizando disciplinas de sistemas distribuídos, engenharia de software e IA aplicada
-- Aprofundando arquiteturas event-driven (FastAPI + Redis + RabbitMQ + CockroachDB)
-- Explorando novas formas de representar dados e métricas pessoais em GitHub Pages
-- Disponível para colaborar em projetos que combinem produto, experiência do utilizador e fundamentos sólidos
+- Finishing coursework in distributed systems, software engineering, and applied AI
+- Deep diving event-driven architectures (FastAPI + Redis + RabbitMQ + CockroachDB)
+- Exploring new ways to showcase personal metrics on GitHub Pages
+- Open to collaborating on projects that combine product thinking, user experience, and solid fundamentals
 
 ---
 
@@ -89,28 +88,27 @@
   </tr>
 </table>
 
----
 
-## 🎓 Educação & Certificações
+## 🎓 Education & Certifications
 
 > **Instituto Superior Técnico** (2023 → 2025) · MSc in Computer Engineering  
-> Foco: Sistemas distribuídos, aplicações inteligentes, engenharia de software avançada  
-> [Plano curricular](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/curriculo)
+> Focus: distributed systems, intelligent applications, advanced software engineering  
+> [Curriculum](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/curriculo)
 
 > **Universidade do Algarve** (2019 → 2023) · BSc in Computer Science · Nota final: 15/20  
-> Sólida base em algoritmos, bases de dados, redes e desenvolvimento full-stack  
-> [Curso](https://www.ualg.pt/curso/1478)
+> Strong foundation in algorithms, databases, networking, and full-stack development  
+> [Program](https://www.ualg.pt/curso/1478)
 
 ---
 
-## 💼 Experiência relevante
+## 💼 Relevant Experience
 
 - **Software & Web Developer Trainee @ DigitSigma (Loulé)**  
-  Desenvolvi aplicações web e Windows Forms (.NET) conectando bases de dados, APIs e interfaces responsivas. Usei C#, PHP, JavaScript, HTML/CSS, Bootstrap, Axios/Ajax e foquei-me em lançar funcionalidades que resolvessem problemas concretos. Suspendi o estágio para ingressar no Mestrado em Engenharia Informática.
+  Built web apps and Windows Forms (.NET) solutions that tied together databases, APIs, and responsive interfaces. Worked with C#, PHP, JavaScript, HTML/CSS, Bootstrap, Axios/Ajax, and focused on shipping features that solved tangible problems. Paused the internship to pursue the MSc in Computer Engineering.
 
 ---
 
-## 🏗️ Projetos em destaque
+## 🏗️ Highlighted Projects
 
 <p align="center">
   <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
@@ -134,17 +132,17 @@
   </a>
 </p>
 
-**Highlights rápidos**
+**Quick Highlights**
 
-- **Distributed Key-Value Storage System** · Arquitetura resiliente com FastAPI, Redis, RabbitMQ, CockroachDB, observabilidade e autoscaling  
-- **Coinky Mealheiro Digital** · Solução que combina aplicação web + dispositivo Arduino para gerir finanças diárias de forma tangível  
-- **Web API Integration App** · Pesquisa de filmes baseada na TMDB API, com autenticação completa e UI em React + Material UI  
-- **Digit Recognition NN** · Rede neural custom para dígitos manuscritos (0/1) com retropropagação e validação cruzada  
-- **SnakeOOPS** · Jogo modular usando padrões Singleton, Abstract Factory e Strategy, com modos gráfico e textual
+- **Distributed Key-Value Storage System** · Resilient architecture with FastAPI, Redis, RabbitMQ, CockroachDB, observability, and autoscaling  
+- **Coinky Mealheiro Digital** · Hybrid web + Arduino solution that makes daily finance management tactile and intuitive  
+- **Web API Integration App** · Movie discovery with TMDB API, full auth flow, and a React + Material UI interface  
+- **Digit Recognition NN** · Custom neural net for handwritten digits (0/1) with backpropagation and cross-validation  
+- **SnakeOOPS** · Modular snake game using Singleton, Abstract Factory, and Strategy patterns with GUI and CLI modes
 
 ---
 
-## 📊 Estatísticas & Vibes
+## 📊 Stats & Vibes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisAPR1&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats"/>
@@ -157,11 +155,11 @@
 
 ---
 
-## 🤝 Vamos falar
+## 🤝 Let's Talk
 
-- 📬 **Disponível para estágios e colaborações** · manda mensagem pelo GitHub ou LinkedIn (happy to connect!)
-- 💡 Adoro transformar ideias em produtos e estou sempre pronto para discutir sistemas distribuídos, AI aplicada ou UI/UX para devs
-- ☕ Se também curtes aprender fazendo, bora conversar ✨
+- 📬 **Open to internships and collaborations** · feel free to DM via GitHub or LinkedIn
+- 💡 Love turning ideas into products and always excited to jam on distributed systems, applied AI, or UI/UX for devs
+- ☕ If you're also into learning by doing, let's chat ✨
 
 <p align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Coding cat gif"/>

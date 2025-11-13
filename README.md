@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis Rodrigues
+# Hi, I'm Luis Rodrigues
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated developer at work" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Full-stack problem solver • MSc Computer Engineering @ Instituto Superior Técnico • Open to internships</strong><br/>
-  <sub>Curious mind, pragmatic builder, believer in human-centered software.</sub>
+  <sub>Lifelong learner focused on turning curiosity into human-centered software.</sub>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 
-## 🧭 About Me
+## About Me
 
 - MSc in Computer Engineering @ Instituto Superior Técnico (2023-2025) built on a BSc from Universidade do Algarve (grade: 15/20)
 - From hands-on technician to research-driven engineer: pragmatic about tools, obsessed with systems that impact real people
@@ -31,16 +31,16 @@
 - Comfortable in multidisciplinary teams, happy to mentor, and have a high tolerance for hairy problems
 - Currently looking for an internship or entry-level role where I can apply these fundamentals and keep learning
 
-## 🚀 Right Now
+## Right Now
 
-- Finishing coursework in distributed systems, software engineering, and applied AI
-- Deep diving event-driven architectures (FastAPI + Redis + RabbitMQ + CockroachDB)
-- Exploring new ways to showcase personal metrics on GitHub Pages
-- Open to collaborating on projects that combine product thinking, user experience, and solid fundamentals
+- Pursuing the MSc at Instituto Superior Técnico with a specialization in Artificial Intelligence and Data Science
+- Completed **Data Integration** and **Forensics & Cyber-Security**
+- Currently taking **Data Science** and **Foundations of Information Systems**
+- Always experimenting with new ways to present personal metrics and insights on GitHub Pages
 
 ---
 
-## 🛠️ Tech Playground
+## Tech Playground
 
 <table>
   <tr>
@@ -89,7 +89,7 @@
 </table>
 
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 > **Instituto Superior Técnico** (2023 → 2025) · MSc in Computer Engineering  
 > Focus: distributed systems, intelligent applications, advanced software engineering  
@@ -101,14 +101,14 @@
 
 ---
 
-## 💼 Relevant Experience
+## Relevant Experience
 
-- **Software & Web Developer Trainee @ DigitSigma (Loulé)**  
+- **Software & Web Developer Trainee @ DigitSigma (Loulé, Portugal)**  
   Built web apps and Windows Forms (.NET) solutions that tied together databases, APIs, and responsive interfaces. Worked with C#, PHP, JavaScript, HTML/CSS, Bootstrap, Axios/Ajax, and focused on shipping features that solved tangible problems. Paused the internship to pursue the MSc in Computer Engineering.
 
 ---
 
-## 🏗️ Highlighted Projects
+## Highlighted Projects
 
 <p align="center">
   <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
@@ -142,11 +142,11 @@
 
 ---
 
-## 📊 Stats & Vibes
+## Stats & Vibes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisAPR1&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=LuisAPR1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAPR1&theme=radical&hide_border=false" alt="GitHub streak"/>
 </p>
 
 <p align="center">
@@ -155,11 +155,11 @@
 
 ---
 
-## 🤝 Let's Talk
+## Let's Talk
 
-- 📬 **Open to internships and collaborations** · feel free to DM via GitHub or LinkedIn
-- 💡 Love turning ideas into products and always excited to jam on distributed systems, applied AI, or UI/UX for devs
-- ☕ If you're also into learning by doing, let's chat ✨
+- **Open to internships and collaborations** · feel free to DM via GitHub or LinkedIn
+- Love turning ideas into products and always excited to jam on distributed systems, applied AI, or UI/UX for devs
+- If you're also into building by learning out loud, let's chat
 
 <p align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Coding cat gif"/>

@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/github/followers/LuisAPR1?label=Followers&logo=github&style=flat-square" alt="GitHub followers"/>
   </a>
   <a href="https://www.ualg.pt/curso/1478">
-    <img src="https://img.shields.io/badge/B.Sc.%20UAlg-Computer%20Science-004aad?style=flat-square" alt="UAlg badge"/>
+    <img src="https://img.shields.io/badge/BSc%20UAlg-Computer%20Science-004aad?style=flat-square" alt="UAlg badge"/>
   </a>
   <a href="https://fenix.tecnico.ulisboa.pt/cursos/meic-t/curriculo">
-    <img src="https://img.shields.io/badge/M.Sc.%20IST-Computer%20Engineering-ed6f00?style=flat-square" alt="IST badge"/>
+    <img src="https://img.shields.io/badge/MSc%20IST-Computer%20Engineering-ed6f00?style=flat-square" alt="IST badge"/>
   </a>
 </p>
 
@@ -91,13 +91,13 @@
 
 ## Education & Certifications
 
-> **Instituto Superior Técnico** (2023 → 2025) · MSc in Computer Engineering  
+> **Instituto Superior Técnico** (2025 → ...) · MSc in Computer Engineering  
 > Focus: distributed systems, intelligent applications, advanced software engineering  
-> [Curriculum](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/curriculo)
+> [Syllabus](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/curriculo)
 
-> **Universidade do Algarve** (2019 → 2023) · BSc in Computer Science · Nota final: 15/20  
-> Strong foundation in algorithms, databases, networking, and full-stack development  
-> [Program](https://www.ualg.pt/curso/1478)
+> **Universidade do Algarve** (2021 → 2025) · BSc in Computer Science · Nota final: 15/20  
+> Strong foundation in maths, phisics, algorithms, databases, networking, and full-stack development  
+> [Syllabus](https://www.ualg.pt/curso/1478)
 
 ---
 
@@ -146,7 +146,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisAPR1&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAPR1&theme=radical&hide_border=false" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=LuisAPR1&theme=radical&hide_border=false" alt="GitHub streak"/>
 </p>
 
 <p align="center">
@@ -162,5 +162,5 @@
 - If you're also into building by learning out loud, let's chat
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Coding cat gif"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Studying animation"/>
 </p>

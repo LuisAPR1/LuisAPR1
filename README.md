@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack problem solver • MSc Computer Engineering @ Instituto Superior Técnico • Open to internships</strong><br/>
-  <sub>Lifelong learner focused on turning curiosity into human-centered software.</sub>
+  <strong>Full-stack problem solver • MSc Computer Science @Instituto Superior Técnico (in progress)</strong><br/>
+  <sub>Lifelong learner focused on turning curiosity into human-centered utilitys.</sub>
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 
 ## About Me
 
-- MSc in Computer Engineering @ Instituto Superior Técnico (2023-2025) built on a BSc from Universidade do Algarve (grade: 15/20)
-- From hands-on technician to research-driven engineer: pragmatic about tools, obsessed with systems that impact real people
-- Balanced experience across backend/frontend, data, distributed systems, AI experiments and user-oriented product design
-- Comfortable in multidisciplinary teams, happy to mentor, and have a high tolerance for hairy problems
-- Currently looking for an internship or entry-level role where I can apply these fundamentals and keep learning
+- Master’s in Computer Science (started in 2025) at Instituto Superior Técnico, built on a Bachelor’s degree in Computer Science from Universidade do Algarve (grade: 15/20).
+- From hands-on technician to research-driven engineer: pragmatic about tools, obsessed with systems that impact real people.
+- Balanced experience across backend/frontend, data, distributed systems, AI experiments and user-oriented product design.
+- Comfortable in multidisciplinary teams, happy to mentor, and have a high tolerance for hairy problems.
+- Currently looking for an internship or entry-level role where I can apply these fundamentals and keep learning.
 
 ## Right Now
 
@@ -92,7 +92,7 @@
 ## Education & Certifications
 
 > **Instituto Superior Técnico** (2025 → ...) · MSc in Computer Engineering  
-> Focus: distributed systems, intelligent applications, advanced software engineering  
+> Focus: Data Science and Artificial Intelligence.  
 > [Syllabus](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/curriculo)
 
 > **Universidade do Algarve** (2021 → 2025) · BSc in Computer Science · Nota final: 15/20  
@@ -104,26 +104,26 @@
 ## Relevant Experience
 
 - **Software & Web Developer Trainee @ DigitSigma (Loulé, Portugal)**  
-  Built web apps and Windows Forms (.NET) solutions that tied together databases, APIs, and responsive interfaces. Worked with C#, PHP, JavaScript, HTML/CSS, Bootstrap, Axios/Ajax, and focused on shipping features that solved tangible problems. Paused the internship to pursue the MSc in Computer Engineering.
+  Built web apps and Windows Forms (.NET) solutions that tied together databases, APIs, and responsive interfaces. Worked with C#, PHP, JavaScript, HTML/CSS, Bootstrap, Axios/Ajax, and focused on shipping features that solved tangible problems. Paused the internship to pursue the BSc in Computer Science.
 
 ---
 
 ## Highlighted Projects
 
 <p align="center">
-  <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed KV Store"/>
-  </a>
   <a href="https://github.com/LuisAPR1/web-api-integration-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=web-api-integration-app&theme=radical" alt="Movie Finder App"/>
+  </a>
+  <a href="https://github.com/LuisAPR1/Digit-Recognition-NN-V2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN v2"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/LuisAPR1/Coinky">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Coinky&theme=radical" alt="Coinky piggy bank"/>
   </a>
-  <a href="https://github.com/LuisAPR1/Digit-Recognition-NN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN&theme=radical" alt="Digit Recognition NN"/>
+  <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed KV Store"/>
   </a>
 </p>
 <p align="center">
@@ -137,7 +137,7 @@
 - **Distributed Key-Value Storage System** · Resilient architecture with FastAPI, Redis, RabbitMQ, CockroachDB, observability, and autoscaling  
 - **Coinky Mealheiro Digital** · Hybrid web + Arduino solution that makes daily finance management tactile and intuitive  
 - **Web API Integration App** · Movie discovery with TMDB API, full auth flow, and a React + Material UI interface  
-- **Digit Recognition NN** · Custom neural net for handwritten digits (0/1) with backpropagation and cross-validation  
+- **Digit Recognition NN V2** · Improved handwritten digit classifier with better regularization, plotting, and evaluation tooling  
 - **SnakeOOPS** · Modular snake game using Singleton, Abstract Factory, and Strategy patterns with GUI and CLI modes
 
 ---

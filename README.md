@@ -163,6 +163,4 @@
 - Love turning ideas into products and always excited to jam on distributed systems, applied AI, or UI/UX for devs
 - If you're also into building by learning out loud, let's chat
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Studying animation"/>
-</p>
+

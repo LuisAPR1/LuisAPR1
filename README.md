@@ -146,7 +146,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisAPR1&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=LuisAPR1&theme=radical&hide_border=false" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=LuisAPR1&theme=radical&hide_border=false" alt="GitHub streak"/>
 </p>
 
 <p align="center">

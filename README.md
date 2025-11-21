@@ -1,5 +1,4 @@
-# Hi, I'm Luis Rosa
-
+https://readme-typing-svg.demolab.com/demo/?font=Archivo+Black&duration=7000&vCenter=true&lines=Hello%2C+it's+Luis+Alexandre+;Software+Developer
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated developer at work" />
 </p>

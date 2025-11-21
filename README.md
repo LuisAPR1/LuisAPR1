@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&duration=7000&pause=1000&vCenter=true&width=435&lines=Hello%2C+it's+Luis+Alexandre+;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&duration=7000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+it's+Luis+Alexandre+;Software+Developer)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated developer at work" />
+</p>
 
 <p align="center">
   <strong>Full-stack problem solver • MSc Computer Science @Instituto Superior Técnico (in progress)</strong><br/>

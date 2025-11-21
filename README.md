@@ -137,7 +137,7 @@
 - **Distributed Key-Value Storage System** · Resilient architecture with FastAPI, Redis, RabbitMQ, CockroachDB, observability, and autoscaling  
 - **Coinky Mealheiro Digital** · Hybrid web + Arduino solution that makes daily finance management tactile and intuitive  
 - **Web API Integration App** · Movie discovery with TMDB API, full auth flow, and a React + Material UI interface  
-- **Digit Recognition NN V2** · Improved handwritten digit classifier with better regularization, plotting, and evaluation tooling  
+- **Digit Recognition NN V2** · Improved handwritten digit classifier with better regularization, plotting, and evaluation tooling   
 - **SnakeOOPS** · Modular snake game using Singleton, Abstract Factory, and Strategy patterns with GUI and CLI modes
 
 ---

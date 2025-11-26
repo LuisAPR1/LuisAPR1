@@ -106,19 +106,6 @@
 
 ---
 
-## Stats & Vibes
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=LuisAPR1&theme=radical&hide_border=false" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAPR1&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
----
-
 ## Let's Talk
 
 - **Open to internships and collaborations** · feel free to DM via GitHub or LinkedIn

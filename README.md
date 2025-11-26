@@ -53,7 +53,7 @@
 </p>
 
 
-## Education & Certifications
+## Education & Experience
 
 > **Instituto Superior Técnico** (2025 → ...) · MSc in Computer Engineering  
 > Focus: Data Science and Artificial Intelligence.  
@@ -63,12 +63,8 @@
 > Strong foundation in maths, phisics, algorithms, databases, networking, and full-stack development  
 > [Syllabus](https://www.ualg.pt/curso/1478)
 
----
-
-## Relevant Experience
-
-- **Software & Web Developer Trainee @ DigitSigma (Loulé, Portugal)**  
-  Built web apps and Windows Forms (.NET) solutions that tied together databases, APIs, and responsive interfaces. Worked with C#, PHP, JavaScript, HTML/CSS, Bootstrap, Axios/Ajax, and focused on shipping features that solved tangible problems. Paused the internship to pursue the BSc in Computer Science.
+> **Software & Web Developer Trainee @ DigitSigma** (Loulé, Portugal)
+> Built web apps and Windows Forms (.NET) solutions that tied together databases, APIs, and responsive interfaces. Worked with C#, PHP, JavaScript, HTML/CSS, Bootstrap, Axios/Ajax, and focused on shipping features that solved tangible problems. Paused the internship to pursue the BSc in Computer Science.
 
 ---
 
@@ -103,6 +99,19 @@
 - **Web API Integration App** · Movie discovery with TMDB API, full auth flow, and a React + Material UI interface  
 - **Digit Recognition NN V2** · Improved handwritten digit classifier with better regularization, plotting, and evaluation tooling   
 - **SnakeOOPS** · Modular snake game using Singleton, Abstract Factory, and Strategy patterns with GUI and CLI modes
+
+---
+
+## Stats & Vibes
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=LuisAPR1&theme=radical&hide_border=false" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAPR1&layout=compact&theme=radical" alt="Top languages"/>
+</p>
 
 ---
 

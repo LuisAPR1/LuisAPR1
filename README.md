@@ -66,32 +66,19 @@
 
 ## Highlighted Projects
 
-<p align="center">
-  <a href="https://github.com/LuisAPR1/CineByte-react-ts-movies-app">
-    <img src="https://github-readme-repo-card.vercel.app/api?repo=LuisAPR1/CineByte-react-ts-movies-app&theme=radical" alt="CineByte Movies App"/>
-  </a>
-  <a href="https://github.com/LuisAPR1/Digit-Recognition-NN-V2">
-    <img src="https://github-readme-repo-card.vercel.app/api?repo=LuisAPR1/Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN v2"/>
-  </a>
-</p>
+## Highlighted Projects
 
-<p align="center">
-  <a href="https://github.com/LuisAPR1/Coinky">
-    <img src="https://github-readme-repo-card.vercel.app/api?repo=LuisAPR1/Coinky&theme=radical" alt="Coinky piggy bank"/>
-  </a>
-  <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
-    <img src="https://github-readme-repo-card.vercel.app/api?repo=LuisAPR1/Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed KV Store"/>
-  </a>
-</p>
+[![CineByte](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=CineByte-react-ts-movies-app&theme=radical)](https://github.com/LuisAPR1/CineByte-react-ts-movies-app)
 
-<p align="center">
-  <a href="https://github.com/LuisAPR1/Compiler-For-Tuga-Language">
-    <img src="https://github-readme-repo-card.vercel.app/api?repo=LuisAPR1/Compiler-For-Tuga-Language&theme=radical" alt="Compiler for Tuga Language"/>
-  </a>
-  <a href="https://github.com/LuisAPR1/Remix-of-Snake-Game">
-    <img src="https://github-readme-repo-card.vercel.app/api?repo=LuisAPR1/Remix-of-Snake-Game&theme=radical" alt="Snake Remix"/>
-  </a>
-</p>
+[![Digit Recognition](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical)](https://github.com/LuisAPR1/Digit-Recognition-NN-V2)
+
+[![Coinky](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Coinky&theme=radical)](https://github.com/LuisAPR1/Coinky)
+
+[![Distributed KV](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical)](https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System)
+
+[![Compiler](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Compiler-For-Tuga-Language&theme=radical)](https://github.com/LuisAPR1/Compiler-For-Tuga-Language)
+
+[![Snake Remix](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Remix-of-Snake-Game&theme=radical)](https://github.com/LuisAPR1/Remix-of-Snake-Game)
 
 **Quick Highlights**
 

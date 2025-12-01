@@ -75,7 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=web-api-integration-app&theme=radical" alt="Movie Finder App"/>
   </a>
   <a href="https://github.com/LuisAPR1/Digit-Recognition-NN-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN_V2&theme=radical" alt="Digit Recognition NN v2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN v2"/>
   </a>
 </p>
 <p align="center">

@@ -66,25 +66,38 @@
 
 ## Highlighted Projects
 
-## Highlighted Projects
+<p align="center">
+  <a href="https://github.com/LuisAPR1/CineByte-react-ts-movies-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=CineByte-react-ts-movies-app&theme=radical" alt="CineByte App"/>
+  </a>
+  <a href="https://github.com/LuisAPR1/Digit-Recognition-NN-V2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN"/>
+  </a>
+</p>
 
-[![CineByte](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=CineByte-react-ts-movies-app&theme=radical)](https://github.com/LuisAPR1/CineByte-react-ts-movies-app)
+<p align="center">
+  <a href="https://github.com/LuisAPR1/Coinky">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Coinky&theme=radical" alt="Coinky"/>
+  </a>
+  <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed KV Store"/>
+  </a>
+</p>
 
-[![Digit Recognition](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical)](https://github.com/LuisAPR1/Digit-Recognition-NN-V2)
-
-[![Coinky](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Coinky&theme=radical)](https://github.com/LuisAPR1/Coinky)
-
-[![Distributed KV](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical)](https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System)
-
-[![Compiler](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Compiler-For-Tuga-Language&theme=radical)](https://github.com/LuisAPR1/Compiler-For-Tuga-Language)
-
-[![Snake Remix](https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Remix-of-Snake-Game&theme=radical)](https://github.com/LuisAPR1/Remix-of-Snake-Game)
+<p align="center">
+  <a href="https://github.com/LuisAPR1/Compiler-For-Tuga-Language">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Compiler-For-Tuga-Language&theme=radical" alt="Compiler Tuga"/>
+  </a>
+  <a href="https://github.com/LuisAPR1/Remix-of-Snake-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Remix-of-Snake-Game&theme=radical" alt="Snake Remix"/>
+  </a>
+</p>
 
 **Quick Highlights**
 
-- **CineByte** · A full-stack web application for discovering and managing movies and TV shows. (University Assignment).
-- **Digit Recognition NN V2** · End-to-end digit recognizer built from scratch: Java backend training a feed-forward NN on MNIST + responsive web frontend.
+- **CineByte** · A full-stack web application for discovering and managing movies and TV shows.
+- **Digit Recognition NN V2** · End-to-end digit recognizer built from scratch: a Java backend that trains a feed-forward neural network on MNIST.
 - **Coinky** · Digital piggy bank with web app and Arduino, for easy daily financial management.
-- **Distributed Key-Value Storage System** · Capable of storing, retrieving, and managing key-value pairs across multiple nodes in a distributed environment.
-- **Compiler For Tuga Language** · Creation of a compiler for a custom programming language designed by me (University Compilers Course).
-- **Remix of Snake Game** · A remix of the classic Snake game developed for the OOP university course.
+- **Distributed Key-Value Storage System** · A distributed system capable of storing, retrieving, and managing key-value pairs across multiple nodes.
+- **Compiler For Tuga Language** · A project for the university Compilers course, involving the creation of a compiler for a custom programming language.
+- **Remix of Snake Game** · A project for the university OOP course, a remix of the classic Snake game.

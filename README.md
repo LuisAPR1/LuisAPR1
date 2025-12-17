@@ -31,7 +31,7 @@
 - From hands-on technician to research-driven engineer: pragmatic about tools, obsessed with systems that impact real people.
 - Balanced experience across backend/frontend, data, distributed systems, AI experiments and user-oriented product design.
 - Comfortable in multidisciplinary teams, happy to mentor, and have a high tolerance for hairy problems.
-- Currently looking for an internship or entry-level role where I can apply these fundamentals and keep learning.
+
 
 ## Right Now
 
@@ -90,6 +90,9 @@
   <a href="https://github.com/LuisAPR1/Remix-of-Snake-Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Remix-of-Snake-Game&theme=radical" alt="SnakeOOPS"/>
   </a>
+  <a href="https://github.com/LuisAPR1/PhysicsEngine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=PhysicsEngine&theme=radical" alt="PhysicsEngine"/>
+  </a>
 </p>
 
 **Quick Highlights**
@@ -99,3 +102,4 @@
 - **Web API Integration App** · Movie discovery with TMDB API, full auth flow, and a React + Material UI interface  
 - **Digit Recognition NN V2** · Improved handwritten digit classifier with better regularization, plotting, and evaluation tooling   
 - **SnakeOOPS** · Modular snake game using Singleton, Abstract Factory, and Strategy patterns with GUI and CLI modes
+- **2D Physics Engine** · Web-based 2D physics simulation engine built from scratch using p5.js

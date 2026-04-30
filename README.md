@@ -36,8 +36,8 @@
 ## Right Now
 
 - Pursuing the MSc at Instituto Superior Técnico with a specialization in Artificial Intelligence and Data Science
-- Completed **Data Integration** and **Forensics & Cyber-Security**
-- Currently taking **Data Science** and **Foundations of Information Systems**
+- Completed **Advanced Programming**, **High-Reliability Systems**, **Data Science**, **Data Analysis and Integration**, and **Cybersecurity Forensics**
+- Currently taking **Autonomous Agents and Multi-Agent Systems** and **Cloud Computing and Virtualization**
 - Always experimenting with new ways to present personal metrics and insights on GitHub Pages
 
 ---
@@ -71,25 +71,30 @@
 ## Highlighted Projects
 
 <p align="center">
-  <a href="https://github.com/LuisAPR1/web-api-integration-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=web-api-integration-app&theme=radical" alt="Movie Finder App"/>
+  <a href="https://github.com/LuisAPR1/ETL-OLAP-DataWarehouse-Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=ETL-OLAP-DataWarehouse-Pipeline&theme=radical" alt="ETL OLAP Data Warehouse Pipeline"/>
+  </a>
+  <a href="https://github.com/LuisAPR1/Permissioned-Blockchain-with-BFT-Consensus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Permissioned-Blockchain-with-BFT-Consensus&theme=radical" alt="Permissioned Blockchain with BFT Consensus"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/LuisAPR1/ML-Prediction-Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=ML-Prediction-Pipeline&theme=radical" alt="ML Prediction Pipeline"/>
   </a>
   <a href="https://github.com/LuisAPR1/Digit-Recognition-NN-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN v2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN V2"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/LuisAPR1/Coinky">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Coinky&theme=radical" alt="Coinky piggy bank"/>
-  </a>
   <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed KV Store"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed Key-Value Storage System"/>
+  </a>
+  <a href="https://github.com/LuisAPR1/React-Ts-REST-API-Movie-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=React-Ts-REST-API-Movie-App&theme=radical" alt="React TS REST API Movie App"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/LuisAPR1/Remix-of-Snake-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Remix-of-Snake-Game&theme=radical" alt="SnakeOOPS"/>
-  </a>
   <a href="https://github.com/LuisAPR1/PhysicsEngine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=PhysicsEngine&theme=radical" alt="PhysicsEngine"/>
   </a>
@@ -97,9 +102,10 @@
 
 **Quick Highlights**
 
-- **Distributed Key-Value Storage System** · Resilient architecture with FastAPI, Redis, RabbitMQ, CockroachDB, observability, and autoscaling  
-- **Coinky Mealheiro Digital** · Hybrid web + Arduino solution that makes daily finance management tactile and intuitive  
-- **Web API Integration App** · Movie discovery with TMDB API, full auth flow, and a React + Material UI interface  
-- **Digit Recognition NN V2** · Improved handwritten digit classifier with better regularization, plotting, and evaluation tooling   
-- **SnakeOOPS** · Modular snake game using Singleton, Abstract Factory, and Strategy patterns with GUI and CLI modes
-- **2D Physics Engine** · Web-based 2D physics simulation engine built from scratch using p5.js
+- **ETL & OLAP Data Warehouse Pipeline** · End-to-end data warehousing solution with ETL processes and OLAP analytics for multidimensional analysis
+- **Permissioned Blockchain with BFT Consensus** · DepChain: permissioned blockchain with HotStuff BFT consensus, EVM smart contracts, and frontrunning-resistant ERC-20 approvals
+- **ML Prediction Pipeline** · End-to-end machine learning pipeline with multiple classifiers and a FastAPI interface for real-time predictions and batch evaluation
+- **Digit Recognition NN V2** · End-to-end MNIST digit recognizer with a from-scratch Java neural network and a web playground for live inference
+- **Distributed Key-Value Storage System** · Resilient architecture with FastAPI, Redis, RabbitMQ, CockroachDB, observability, and autoscaling
+- **React + TS REST API Movie App** · Full-stack movies and TV shows app with React, TypeScript, and a Node.js REST API, powered by the TMDb API
+- **2D Physics Engine** · Web-based 2D physics simulation built from scratch with p5.js, featuring rigid body dynamics, AABB collisions, and Verlet integration

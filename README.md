@@ -72,31 +72,31 @@
 
 <p align="center">
   <a href="https://github.com/LuisAPR1/ETL-OLAP-DataWarehouse-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=ETL-OLAP-DataWarehouse-Pipeline&theme=radical" alt="ETL OLAP Data Warehouse Pipeline"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LuisAPR1&repo=ETL-OLAP-DataWarehouse-Pipeline&theme=radical" alt="ETL OLAP Data Warehouse Pipeline"/>
   </a>
   <a href="https://github.com/LuisAPR1/Permissioned-Blockchain-with-BFT-Consensus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Permissioned-Blockchain-with-BFT-Consensus&theme=radical" alt="Permissioned Blockchain with BFT Consensus"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LuisAPR1&repo=Permissioned-Blockchain-with-BFT-Consensus&theme=radical" alt="Permissioned Blockchain with BFT Consensus"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/LuisAPR1/ML-Prediction-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=ML-Prediction-Pipeline&theme=radical" alt="ML Prediction Pipeline"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LuisAPR1&repo=ML-Prediction-Pipeline&theme=radical" alt="ML Prediction Pipeline"/>
   </a>
   <a href="https://github.com/LuisAPR1/Digit-Recognition-NN-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN V2"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LuisAPR1&repo=Digit-Recognition-NN-V2&theme=radical" alt="Digit Recognition NN V2"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/LuisAPR1/Distributed-Key-Value-Storage-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed Key-Value Storage System"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LuisAPR1&repo=Distributed-Key-Value-Storage-System&theme=radical" alt="Distributed Key-Value Storage System"/>
   </a>
   <a href="https://github.com/LuisAPR1/React-Ts-REST-API-Movie-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=React-Ts-REST-API-Movie-App&theme=radical" alt="React TS REST API Movie App"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LuisAPR1&repo=React-Ts-REST-API-Movie-App&theme=radical" alt="React TS REST API Movie App"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/LuisAPR1/PhysicsEngine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAPR1&repo=PhysicsEngine&theme=radical" alt="PhysicsEngine"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LuisAPR1&repo=PhysicsEngine&theme=radical" alt="PhysicsEngine"/>
   </a>
 </p>
 
